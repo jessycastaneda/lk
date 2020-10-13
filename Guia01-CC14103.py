@@ -5,3 +5,9 @@ while num >= 1:
     num = num // 2
     resultado = "".join(str(i)for i in lista)
     print(resultado)
+
+
+
+
+
+
